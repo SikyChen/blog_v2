@@ -3,7 +3,7 @@ import { defineUserConfig } from '@vuepress/cli'
 import type { DefaultThemeOptions } from '@vuepress/theme-default'
 
 export default defineUserConfig<DefaultThemeOptions, ViteBundlerOptions>({
-  base: 'blog_v2',
+  base: '/blog_v2/',
   
   lang: 'zh-CN',
   title: '老白的驿站',
