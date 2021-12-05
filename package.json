@@ -1,0 +1,14 @@
+{
+  "name": "blog_v2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "sikychen <sikychen@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs"
+  },
+  "devDependencies": {
+    "vuepress-vite": "^2.0.0-beta.27"
+  }
+}
