@@ -1,0 +1,1 @@
+import{r as e,c as o,w as _,o as r,a as s}from"./app.8f226db3.js";import{_ as a}from"./plugin-vue_export-helper.21dcd24c.js";const c={};function p(l,d,i,u,x,f){const n=e("Index"),t=e("ClientOnly");return r(),o(t,null,{default:_(()=>[s(n)]),_:1})}var h=a(c,[["render",p]]);export{h as default};

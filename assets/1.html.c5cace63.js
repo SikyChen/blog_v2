@@ -1,0 +1,1 @@
+const e={key:"v-f974097c",path:"/life/21-12/1.html",title:"\u53CC\u5341\u4E8C",lang:"zh-CN",frontmatter:{title:"\u53CC\u5341\u4E8C",description:"\u53CC\u5341\u4E8C",date:"2021-12-12T00:00:00.000Z"},excerpt:"",headers:[],filePathRelative:"life/21-12/1.md",git:{updatedTime:1640189872e3,contributors:[{name:"sikychen",email:"sikychen@gmail.com",commits:1}]}};export{e as data};
