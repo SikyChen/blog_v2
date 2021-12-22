@@ -4,6 +4,8 @@ description: 当我们自己写了一个通用的 JavaScript 模块，想要分�
 date: 2021-12-05
 ---
 
+# 如何发布一个NPM包
+
 当我们自己写了一个通用的 JavaScript 模块，想要分享出去给别人使用，一般都会把它作为 npm 包发布到官方仓库中，需要使用的时候再通过 `npm install xxx` 来安装即可。
 
 那么如何发布一个 npm 包呢？

@@ -11,5 +11,32 @@ export default defineUserConfig<DefaultThemeOptions, ViteBundlerOptions>({
 
   themeConfig: {
     logo: '/images/hero.png',
+    lastUpdatedText: '更新时间',
+    contributorsText: '作者',
+
+    sidebar: [
+      {
+        text: '首页',
+        link: '/',
+      },
+      {
+        text: '学习笔记',
+        // link: '/guide',
+        children: [
+          '/guide/1',
+        ],
+      },
+      {
+        text: '生活记录',
+        children: [
+          // {
+          //   text: '如何发布一个NPM包',
+          //   link: '/guide/12',
+          // },
+          '/life/21-12/1.md',
+          '/life/21-12/2.md',
+        ],
+      },
+    ]
   },
 })

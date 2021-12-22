@@ -10,5 +10,8 @@
   },
   "devDependencies": {
     "vuepress-vite": "^2.0.0-beta.27"
+  },
+  "dependencies": {
+    "less": "^4.1.2"
   }
 }
